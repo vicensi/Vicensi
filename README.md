@@ -5,7 +5,7 @@
 ## 📊 Projetos por tema
 
 ### ⏳ Time Series
-- [Previsão de Vendas](https://github.com/seu-usuario/previsao-vendas) — Modelo ARIMA e LSTM para prever vendas.
+- [web traffic forecast in real time](https://github.com/vicensi/web-traffic-forecast-in-real-time/blob/main/Previsão%20de%20Tráfego%20de%20Um%20Web%20Site%20de%20E-Commerce.ipynb) — Modelo XGBRegressor.
 - [Análise Financeira](https://github.com/seu-usuario/analise-financeira) — Extração de tendências e sazonalidade.
 
 ### 🤖 Machine Learning
