@@ -6,7 +6,7 @@
 
 ### ⏳ Time Series
 - [web traffic forecast in real time](https://github.com/vicensi/web-traffic-forecast-in-real-time/blob/main/Previsão%20de%20Tráfego%20de%20Um%20Web%20Site%20de%20E-Commerce.ipynb) — Modelo XGBRegressor.
-- [Análise Financeira](https://github.com/seu-usuario/analise-financeira) — Extração de tendências e sazonalidade.
+- [Anomaly-Detection-in-IoT-Sensor-Data-with-LSTM](https://github.com/vicensi/Anomaly-Detection-in-IoT-Sensor-Data-with-LSTM) — Treinamento e deploy com modelo LSTM para detecção de anomalia de sensor IoT.
 
 ### 🤖 Machine Learning
 - [Classificação de Imagens](https://github.com/seu-usuario/classificacao-imagens) — CNN para reconhecimento de imagens.
