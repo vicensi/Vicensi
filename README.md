@@ -11,7 +11,4 @@
 
 ### 🤖 MLOps
 - [Hyperparameter Optimization](https://github.com/vicensi/Hyperparameter-Optimization/blob/main/MLOps%20Stack%20Para%20Otimização%20de%20Hiperparâmetros%20com%20MLflow%20e%20Optuna.ipynb) — XGBoost, Optuna e MLflow
-- [Detecção de Fraudes](https://github.com/seu-usuario/deteccao-fraudes) — Classificador para transações suspeitas.
 
-
-Organização dos projetos por tema
