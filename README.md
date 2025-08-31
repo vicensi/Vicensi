@@ -12,3 +12,4 @@
 ### 🤖 MLOps
 - [Hyperparameter Optimization](https://github.com/vicensi/Hyperparameter-Optimization/blob/main/MLOps%20Stack%20Para%20Otimização%20de%20Hiperparâmetros%20com%20MLflow%20e%20Optuna.ipynb) — XGBoost, Optuna e MLflow
 
+- [Feature store pipeline](https://github.com/vicensi/feature-store-pipeline)  
