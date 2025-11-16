@@ -18,4 +18,4 @@
 
 ### 🤖 SPARK
 
-- [Otimização de Pipeline ETL e Machine Learning com PySpark] - criação de cluster Spark com docker, gerenciamento e otimização com Yarn, PLN e LogisticRegression. Amazenamento HDFS
+- [Otimização de Pipeline ETL e Machine Learning com PySpark](https://github.com/vicensi/Pipeline-ETL-e-Machine-Learning-com-PySpark/tree/main) - criação de cluster Spark com docker, gerenciamento e otimização com Yarn, PLN e LogisticRegression. Amazenamento HDFS
