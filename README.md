@@ -19,3 +19,8 @@
 ### 🤖 SPARK
 
 - [Otimização de Pipeline ETL e Machine Learning com PySpark](https://github.com/vicensi/Pipeline-ETL-e-Machine-Learning-com-PySpark/tree/main) - criação de cluster Spark com docker, gerenciamento e otimização com Yarn, PLN e LogisticRegression. Amazenamento HDFS
+
+
+### 💎 DATABRICKS
+
+- [Job Pipeline automação tabelas bronze, silver e gold no Databricks](https://github.com/vicensi/Pipeline-ETL-e-Machine-Learning-com-PySpark/tree/main) - Como criar automação de tabelas bronze, silver e gold com o DataBricks.
