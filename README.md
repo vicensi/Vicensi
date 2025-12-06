@@ -23,4 +23,4 @@
 
 ### 💎 DATABRICKS
 
-- [Job Pipeline automação tabelas bronze, silver e gold no Databricks](https://github.com/vicensi/Pipeline-ETL-e-Machine-Learning-com-PySpark/tree/main) - Como criar automação de tabelas bronze, silver e gold com o DataBricks.
+- [Job Pipeline automação tabelas bronze, silver e gold no Databricks](https://github.com/vicensi/Job-Pipeline-automa-o) - Como criar automação de tabelas bronze, silver e gold com o DataBricks.
