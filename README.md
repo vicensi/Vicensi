@@ -24,4 +24,4 @@
 ### 💎 DATABRICKS
 
 - [Job Pipeline automação tabelas bronze, silver e gold no Databricks](https://github.com/vicensi/Job-Pipeline-automa-o) - Como criar automação de tabelas bronze, silver e gold com o DataBricks.
-- [Automacao de tarega com terraform](https://github.com/vicensi/Job-Pipeline-automa-o) - Automação de tarefa no databricks usando terraform.
+- [Automacao de tarefa com terraform](https://github.com/vicensi/databricks-com-terraform/tree/main) - Automação de tarefa no databricks usando terraform.
