@@ -14,6 +14,8 @@
 
 - [Feature store pipeline](https://github.com/vicensi/feature-store-pipeline)  
 
+- [Usando terraform para criar um servico amazon web app de previsao de vendas](https://github.com/vicensi/terraform-ML-webApp/tree/main) - IaC, Docker, LogisticRegression, Html
+
 
 
 ### 🤖 SPARK
