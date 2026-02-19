@@ -30,6 +30,6 @@
 
 
 
-### 💎 Cyber Security
+### 🌐 Cyber Security
 
-- [Pipeline de teste usando varios modelos preditivos](https://github.com/vicensi/Job-Pipeline-automa-o) - Analise exploratoria com dados de invasao de rede, testando 13 modelos preditivos. Familia linear, Ensemble, Arvore de decisão 
+- [Pipeline de teste usando varios modelos preditivos](https://github.com/vicensi/Teste-modelos-invasao-rede/blob/main/Projeto2.ipynb) - Analise exploratoria com dados de invasao de rede, testando 13 modelos preditivos. Familia linear, Ensemble, Arvore de decisão 
