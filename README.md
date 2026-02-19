@@ -27,3 +27,9 @@
 
 - [Job Pipeline automação tabelas bronze, silver e gold no Databricks](https://github.com/vicensi/Job-Pipeline-automa-o) - Como criar automação de tabelas bronze, silver e gold com o DataBricks.
 - [Automacao de tarefa com terraform](https://github.com/vicensi/databricks-com-terraform/tree/main) - Automação de tarefa no databricks usando terraform.
+
+
+
+### 💎 Cyber Security
+
+- [Pipeline de teste usando varios modelos preditivos](https://github.com/vicensi/Job-Pipeline-automa-o) - Analise exploratoria com dados de invasao de rede, testando 13 modelos preditivos. Familia linear, Ensemble, Arvore de decisão 
