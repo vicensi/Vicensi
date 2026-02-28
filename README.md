@@ -30,6 +30,7 @@
 
 
 
-### 🌐 Cyber Security
+### 🌐 Cyber Security 
 
-- [Pipeline de teste usando varios modelos preditivos](https://github.com/vicensi/Teste-modelos-invasao-rede/blob/main/Projeto2.ipynb) - Analise exploratoria com dados de invasao de rede, testando 13 modelos preditivos. Familia linear, Ensemble, Arvore de decisão 
+- [Pipeline de teste usando varios modelos preditivos](https://github.com/vicensi/Teste-modelos-invasao-rede/blob/main/Projeto2.ipynb) - Analise exploratoria com dados de invasao de rede, testando 13 modelos preditivos. Familia linear, Ensemble, Arvore de decisão
+- [Usando Agents AI para analisar pagina Web](https://github.com/vicensi/AgentAI-teste-Vulnerabilidade/blob/main/agentes_seguranca.py) - Agents OpenAi, LangGraph, LLM, workflow
