@@ -21,6 +21,7 @@
 
 - [Job Pipeline automação tabelas bronze, silver e gold no Databricks](https://github.com/vicensi/Job-Pipeline-automa-o) - Como criar automação de tabelas bronze, silver e gold com o DataBricks.
 - [Automacao de tarefa com terraform](https://github.com/vicensi/databricks-com-terraform/tree/main) - Automação de tarefa no databricks usando terraform.
+- [Credit Risk Pipeline — Databricks + MLflow]() - 5 notebooks criando um fluxo de analise de risco de credito, jobs databricks e mlflow model serving
 
 
 ### 🌐 Cyber Security 
