@@ -4,6 +4,9 @@
 
 ## 📊 Projetos por tema
 
+### AI PLatform
+- [RAG com documentos de crédito](https://github.com/vicensi/Projeto01-rag) — LLM, Ollama, RAG, Sistema de crédito
+
 ### 🤖 MLOps
 - [Hyperparameter Optimization](https://github.com/vicensi/Hyperparameter-Optimization/blob/main/MLOps%20Stack%20Para%20Otimização%20de%20Hiperparâmetros%20com%20MLflow%20e%20Optuna.ipynb) — XGBoost, Optuna e MLflow
 
