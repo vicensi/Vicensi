@@ -20,6 +20,10 @@
 
 - [Otimização de Pipeline ETL e Machine Learning com PySpark](https://github.com/vicensi/Pipeline-ETL-e-Machine-Learning-com-PySpark/tree/main) - criação de cluster Spark com docker, gerenciamento e otimização com Yarn, PLN e LogisticRegression. Amazenamento HDFS
 
+### DBT 
+
+- [Transformação e modelagem com DBT e orquestração com Airflow](https://github.com/vicensi/bq-dbt-lab) - Airflow, Cosmos, DBT, BigQuery
+
 
 ### 💎 DATABRICKS
 
